@@ -1,0 +1,1 @@
+// output is 1 1
